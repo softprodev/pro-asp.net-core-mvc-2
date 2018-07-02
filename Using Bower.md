@@ -1,4 +1,5 @@
-# Errata for *Pro ASP.NET Core MVC 2*
+# Using Bower with Visual Studio
+
 
 Microsoft has removed the Bower Configuration File template from Visual Studio and the source for Bower packages has changed.
 
@@ -27,5 +28,3 @@ To create the Bower file required by the example projects:
     }
 
 5. Save the changes to the `bower.json` file. Close and re-open  the project and Visual Studio will download the Bootstrap package.
-
-(Thanks to Michael Horn for reporting this problem)
